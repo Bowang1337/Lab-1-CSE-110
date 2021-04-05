@@ -1,6 +1,5 @@
 # Bozhi Wang's User Page
-![](images/Steven%20Wang.jpg | width=100)
-<img src="https://github.com/Bowang1337/Lab-1-CSE-110/blob/add-user-page/images/Steven%20Wang.jpg" width="100">
+<img src="https://raw.githubusercontent.com/Bowang1337/Lab-1-CSE-110/add-user-page/images/Steven%20Wang.jpg" width="100" height="100">
 Hiya folks, my name is **Bozhi Wang** although I prefer to go by *Steven*  
 
 In this course, I plan to follow the philosophy of Winston Churchill who once said:  
