@@ -1,5 +1,5 @@
 # Bozhi Wang's User Page
-![](images/Steven%20Wang.jpg =50x50)
+![](images/Steven%20Wang.jpg width="100")
 Hiya folks, my name is **Bozhi Wang** although I prefer to go by *Steven*  
 
 In this course, I plan to follow the philosophy of Winston Churchill who once said:  
@@ -24,9 +24,9 @@ Aside from the above, I am also familiar with the following technologies:
 - HTML / CSS
 
 By the end of the quarter I hope to:
-- [x] Gain a deeper understanding with what it means to be a software developer
-- [ ] Create a functional piece of software that I can be proud of
-- [ ] Build fundamental technical and soft engineer skills
+- [x]  Gain a deeper understanding with what it means to be a software developer
+- [ ]  Create a functional piece of software that I can be proud of
+- [ ]  Build fundamental technical and soft engineer skills
 
 ## Lab 1 Part 2: (Re)Familiarizing Ourselves with Git
 For the screenshot of my command line logs, see [here](screenshots/Command%20line%20git%20transactions.PNG)  
