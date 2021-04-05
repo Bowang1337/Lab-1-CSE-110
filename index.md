@@ -1,5 +1,5 @@
 # Bozhi Wang's User Page
-![](images/Steven%20Wang.jpg width="100")
+![](images/Steven%20Wang.jpg | width="100")
 Hiya folks, my name is **Bozhi Wang** although I prefer to go by *Steven*  
 
 In this course, I plan to follow the philosophy of Winston Churchill who once said:  
