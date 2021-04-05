@@ -1,12 +1,12 @@
 # Bozhi Wang's User Page
-![](images/Steven%20Wang.jpg)
-Hiya folks, my name is **Bozhi Wang** although I prefer to go by *Steven*
+![](images/Steven%20Wang.jpg =250x250)
+Hiya folks, my name is **Bozhi Wang** although I prefer to go by *Steven* \
 
-In this course, I plan to follow the philosophy of Winston Churchill who once said: 
+In this course, I plan to follow the philosophy of Winston Churchill who once said: \
 
-> I am always ready to learn although I do not always like being taught.
+> I am always ready to learn although I do not always like being taught. \
 
-More importantly, I hope to learn the ins and outs of software ~~engineering~~ ***development*** to hopefully create a program more than just above a simple `print('Hello, world!')`
+More importantly, I hope to learn the ins and outs of software ~~engineering~~ ***development*** to hopefully create a program more than just above a simple `print('Hello, world!')` 
 
 I am fluent in the following common programming lanuages in order from most to least:
 1. Python
@@ -29,7 +29,7 @@ By the end of the quarter I hope to:
 - [ ] Build fundamental technical and soft engineer skills
 
 ## Lab 1 Part 2: (Re)Familiarizing Ourselves with Git
-For the screenshot of my command line logs, see [here](screenshots/Command%20line%20git%20transactions.PNG)
+For the screenshot of my command line logs, see [here](screenshots/Command%20line%20git%20transactions.PNG) \
 
 For the screenshot of my VS Code UI, see [here](screenshots/Staged%20commit%20in%20VS%20Code.PNG)
 
